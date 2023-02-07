@@ -1,0 +1,22 @@
+{
+
+  "manifest_version": 2,
+  "name": "Coloring",
+  "version": "1.0",
+
+  "description": "Change background color and visibility of any page",
+
+  "icons": {
+    "48": "icons/beasts-48.png"
+  },
+
+  "permissions": [
+    "activeTab"
+  ],
+
+  "browser_action": {
+    "default_icon": "icons/beasts-32.png",
+    "default_title": "Coloring",
+    "default_popup": "popup/choose_color.html"
+  }
+}
