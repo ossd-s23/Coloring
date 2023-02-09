@@ -53,9 +53,11 @@ Consequence: A temporary ban from any sort of interaction or public communicatio
 4. Permanent Ban
 Community Impact: Demonstrating a pattern of violation of community standards, including sustained inappropriate behavior, harassment of an individual, or aggression toward or disparagement of classes of individuals.
 
-#Consequence: A permanent ban from any sort of public interaction within the community.
+Consequence: A permanent ban from any sort of public interaction within the community.
 
 Attribution
+
+
 This Code of Conduct is adapted from the Contributor Covenant, version 2.1, available at https://www.contributor-covenant.org/version/2/1/code_of_conduct.html.
 
 Community Impact Guidelines were inspired by Mozilla’s code of conduct enforcement ladder.
