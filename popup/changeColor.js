@@ -47,7 +47,7 @@ function listenForClicks() {
               .query({ active: true, currentWindow: true })
               .then(reset)
               .catch(()=> {console.log("Failed")});
-            let insertingCSS = browser.tabs.insertCSS({code: cssChoice});
+            let insertingCSS = browser.tabs.insertCSS({code: cssChoice, cssOrigin: "user"});
             insertingCSS.then(reportSuccess(cssChoice), reportError);
         }
 
