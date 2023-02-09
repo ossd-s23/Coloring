@@ -4,7 +4,7 @@ We are always open to new contributors. Please make sure to read the relevant se
 
 ## Code of Conduct
 This project and everyone participating in it is governed by the
-[Coloring Code of Conduct](https://github.com/ossd-s23/Coloringblob/master/CODE_OF_CONDUCT.md).
+[Coloring Code of Conduct](https://github.com/ossd-s23/Coloring/CODE_OF_CONDUCT.md).
 By participating, you are expected to uphold this code. Please report unacceptable behavior
 to <chy325@nyu.edu>, <dhz220@nyu.edu> or <dz1371@nyu.edu>.
 
