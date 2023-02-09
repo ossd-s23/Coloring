@@ -5,8 +5,14 @@ The Coloring team aims to create a safe community for our contributors and membe
 Examples of behavior that contributes to a positive environment for our community include:
 
 Be kind - show empathy to our Coloring community members.
+
+
 Be respectful - remember that it is normal for people to have differing opinions.
+
+
 Be constructive - give and accept constructive feedback.
+
+
 Be responsible - words and actions have consequences.
 
 Examples of unacceptable behavior include:
@@ -26,7 +32,7 @@ This Code of Conduct applies within all community spaces, and also applies when 
 # Enforcement
 Instances of abusive, harassing, or otherwise unacceptable behavior may be reported to the community leaders responsible for enforcement at [chy325@nyu.edu]. All complaints will be reviewed and investigated promptly and fairly.
 
-#Enforcement Guidelines
+# Enforcement Guidelines
 Community leaders will follow these Community Impact Guidelines in determining the consequences for any action they deem in violation of this Code of Conduct:
 
 1. Correction
