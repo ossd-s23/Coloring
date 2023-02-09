@@ -1,4 +1,4 @@
 # ColoringExtension
 Team 10 Add-On Project by Phoebus Yip, Diana Zhao, Danielle Zhao
 ---
-Open-source Mozilla Firefox browser extension to change the aesthetics of some websites. Currently works with background color, looking to add more.
+Open-source Mozilla Firefox browser extension that allows users to add a colorful note on their menubar. Features customizable colors and text formats. 

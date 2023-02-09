@@ -3,20 +3,19 @@ const softGray = "body { background-color: gray; }";
 const pastelGreen = "body { background-color: #A2AC91; }";
 const softBrown = "body {background-color: #D4B59D;}";
 const neutralWhite = "body {background-color: #EDEADE}";
-
+const testing = "body {border: px solid green}"
 // font options
 const makeBold = "body {font-weight: bold}";
 const makeLight = "body {font-weight: lighter}";
 const greenFont = "body {color: green}";
 // array that stores all options
-allOptions = [softGray, pastelGreen, softBrown, neutralWhite, makeBold, makeLight];
+allOptions = [softGray, pastelGreen, softBrown, neutralWhite, makeBold, makeLight, greenFont, testing];
 
 let cssChoice = "body { background-color: white; }";
 
 // function for user clicks on popup
 function listenForClicks() {
     document.addEventListener("click", (e) => {
-
         // different choices depending on which button is clicked
         let choice = e.target.textContent;
         switch (choice){
@@ -32,11 +31,17 @@ function listenForClicks() {
             case "Neutral White":
                 cssChoice = neutralWhite;
                 break;
-            case "Text: Bolder":
+            case "Bolder":
                 cssChoice = makeBold;
                 break;
-            case "Text: Lighter":
+            case "Lighter":
                 cssChoice = makeLight;
+                break;
+            case "Greener":
+                cssChoice = greenFont;
+                break;
+            case "Testing":
+                cssChoice = testing;
                 break;
         }
         

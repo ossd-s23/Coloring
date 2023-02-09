@@ -9,12 +9,6 @@
     }
     window.hasRun = true;
     
-    browser.runtime.onMessage.addListener((message) => {
-      if (message.command === "report") {
-      } else if (message.command === "reset") {
-        console.log("a")
-      }
-    });
 
   })();
   
