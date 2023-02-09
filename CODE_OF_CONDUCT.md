@@ -1,7 +1,7 @@
-#Our Mission
+# Our Mission
 The Coloring team aims to create a safe community for our contributors and members to participate in, regardless of age, body size, visible or invisible disabilities, ethnicity, sex characteristics, gender identity, expression,level of experience, education, socio-economic status, nationality, personal appearance, race, caste, color, religion, or sexual identity and orientation. 
 
-#Our Standards
+# Our Standards
 Examples of behavior that contributes to a positive environment for our community include:
 
 Be kind - show empathy to our Coloring community members.
@@ -17,13 +17,13 @@ Public or private harassment
 Publishing others’ private information, such as a physical or email address, without their explicit permission
 Other conduct which could reasonably be considered inappropriate in a professional setting
 
-#Enforcement Responsibilities
+# Enforcement Responsibilities
 Community leaders have the right and responsibility to remove, edit, or reject comments, commits, code, wiki edits, issues, and other contributions that are not aligned to this Code of Conduct, and will communicate reasons for moderation decisions when appropriate.
 
-#Scope
+# Scope
 This Code of Conduct applies within all community spaces, and also applies when an individual is officially representing the community in public spaces. Examples of representing our community include using an official e-mail address, posting via an official social media account, or acting as an appointed representative at an online or offline event.
 
-#Enforcement
+# Enforcement
 Instances of abusive, harassing, or otherwise unacceptable behavior may be reported to the community leaders responsible for enforcement at [chy325@nyu.edu]. All complaints will be reviewed and investigated promptly and fairly.
 
 #Enforcement Guidelines
