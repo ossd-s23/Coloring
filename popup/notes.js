@@ -54,9 +54,11 @@ function listenForClicks() {
                     break;
                 case "Bolder":
                     document.body.style.fontWeight = "bold";
+                    blckq.style.fontWeight = "bold";
                     break;
                 case "Lighter":
                     document.body.style.fontWeight = "lighter";
+                    blckq.style.fontWeight = "lighter";
                     break;
                 case "White Text":
                     document.body.style.color = "white";
