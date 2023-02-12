@@ -2,6 +2,8 @@
 userSubmit = document.getElementById("userSubmit")
 displayer = document.getElementById("display")
 userInput =  document.getElementById("userInput")
+blckq = document.querySelector("blockquote");
+h1s = document.querySelectorAll("h1");
 
 if (localStorage["inputData"] != null){
     displayer.innerHTML = localStorage["inputData"]
@@ -10,7 +12,10 @@ if (localStorage["inputData"] != null){
 // add click listener to submit button
 userSubmit.addEventListener("click", (e) => {
     displayer.innerHTML = userInput.value;
-    localStorage["inputData"] = userInput.value; })
+    if(userInput.value != ""){
+        localStorage["inputData"] = userInput.value; }
+    }
+)
 
 // listening for clicks within document
 function listenForClicks() {
@@ -20,16 +25,32 @@ function listenForClicks() {
             let choice = e.target.textContent;
             switch (choice) {
                 case "Dark":
-                    document.body.style.backgroundColor = "gray";
+                    document.body.style.backgroundColor = "#242424";
+                    blckq.style.color = "white";
+                    h1s.forEach(h1 => {
+                        h1.style.color = "white";
+                    })
                     break;
                 case "Pastel Green":
                     document.body.style.backgroundColor = "#A2AC91";
+                    blckq.style.color = "black";
+                    h1s.forEach(h1 => {
+                        h1.style.color = "black";
+                    })
                     break;
                 case "Soft Brown":
                     document.body.style.backgroundColor = "#D4B59D";
+                    blckq.style.color = "black";
+                    h1s.forEach(h1 => {
+                        h1.style.color = "black";
+                    })
                     break;
                 case "Neutral White":
                     document.body.style.backgroundColor = "#EDEADE";
+                    blckq.style.color = "black";
+                    h1s.forEach(h1 => {
+                        h1.style.color = "black";
+                    })
                     break;
                 case "Bolder":
                     document.body.style.fontWeight = "bold";
@@ -39,9 +60,17 @@ function listenForClicks() {
                     break;
                 case "White Text":
                     document.body.style.color = "white";
+                    blckq.style.color = "white";
+                    h1s.forEach(h1 => {
+                        h1.style.color = "white";
+                    })
                     break;
                 case "Dark Text":
                     document.body.style.color = "black";
+                    blckq.style.color = "black";
+                    h1s.forEach(h1 => {
+                        h1.style.color = "black";
+                    })
                     break;
             }
         }
