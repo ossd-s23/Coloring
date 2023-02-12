@@ -3,6 +3,27 @@ body {
   width: 1500;
 }
 
+#container {
+  padding: 3%;
+  padding-top: 0%;
+}
+
+#title {
+  font-size: 2em;
+  text-align: center;
+  font-family: Copperplate, sans-serif;
+}
+
+h1 {
+  font-size: 1.3em;
+  font-family: Calibri, sans-serif;
+}
+
+blockquote {
+  font-size: 1em;
+  font-family: Bradley Hand, cursive;
+}
+
 .hidden {
   display: none;
 }
