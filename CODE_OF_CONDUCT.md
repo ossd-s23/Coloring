@@ -4,7 +4,7 @@ The Shady Notes team aims to create a safe community for our contributors and me
 # Our Standards
 Examples of behavior that contributes to a positive environment for our community include:
 
-Be kind - show empathy to our Coloring community members.
+Be kind - show empathy to our Shady Notes community members.
 
 
 Be respectful - remember that it is normal for people to have differing opinions.
