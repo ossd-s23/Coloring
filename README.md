@@ -1,4 +1,4 @@
-# ColoringExtension
+# Shady Notes
 Team 10 Add-On Project by Phoebus Yip, Diana Zhao, Danielle Zhao
 ---
 Open-source Mozilla Firefox browser extension that allows users to add a colorful note on their menubar. Features customizable colors and text formats. 
@@ -17,13 +17,13 @@ The extension is now installed, and remains installed until you restart Firefox.
 
 You may also run the extension from the command line using the web-ext tool.
 
-Under any website, open Coloring to see how the extension runs!
+Under any website, open ShadyNotes to see how the extension runs!
 
 ## How to contribute:
 Details on how to contribute can be found in our [Contributing file](This project and everyone participating in it is governed by the
-[Coloring Code of Conduct](https://github.com/ossd-s23/Coloring/blob/main/CONTRIBUTING.md).
+[CONTRIBUTING](https://github.com/ossd-s23/ShadyNotes/blob/main/CONTRIBUTING.md) file.
 
 This project and everyone participating in it is governed by the
-[Coloring Code of Conduct](https://github.com/ossd-s23/Coloring/blob/main/CODE_OF_CONDUCT.md).
+[ Code of Conduct](https://github.com/ossd-s23/ShadyNotes/blob/main/CODE_OF_CONDUCT.md).
 
 
