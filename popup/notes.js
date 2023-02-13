@@ -1,12 +1,13 @@
 
 userSubmit = document.getElementById("userSubmit")
+userClear = document.getElementById("userClear")
 displayer = document.getElementById("display")
 userInput =  document.getElementById("userInput")
 blckq = document.querySelector("blockquote");
 h1s = document.querySelectorAll("h1");
 
 if (localStorage["inputData"] != null){
-    displayer.innerHTML = localStorage["inputData"]
+    displayer.innerText = localStorage["inputData"]
 }
 
 // add click listener to submit button
@@ -16,7 +17,11 @@ userSubmit.addEventListener("click", (e) => {
         localStorage["inputData"] = userInput.value; }
     }
 )
-
+// add click listener to delete selection button
+userClear.addEventListener("click", (e) => {
+    displayer.innerText = null;
+    }
+)
 // listening for clicks within document
 function listenForClicks() {
     document.addEventListener("click", (e) => {
