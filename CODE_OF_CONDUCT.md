@@ -1,5 +1,5 @@
 # Our Mission
-The Coloring team aims to create a safe community for our contributors and members to participate in, regardless of age, body size, visible or invisible disabilities, ethnicity, sex characteristics, gender identity, expression,level of experience, education, socio-economic status, nationality, personal appearance, race, caste, color, religion, or sexual identity and orientation. 
+The Shady Notes team aims to create a safe community for our contributors and members to participate in, regardless of age, body size, visible or invisible disabilities, ethnicity, sex characteristics, gender identity, expression,level of experience, education, socio-economic status, nationality, personal appearance, race, caste, color, religion, or sexual identity and orientation. 
 
 # Our Standards
 Examples of behavior that contributes to a positive environment for our community include:
