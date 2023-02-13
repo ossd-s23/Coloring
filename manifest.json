@@ -7,7 +7,7 @@
   "description": "Change background color and visibility of any page",
 
   "icons": {
-    "48": "icons/beasts-48.png"
+    "48": "icons/icon.png"
   },
 
   "permissions": [
