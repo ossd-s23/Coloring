@@ -7,7 +7,7 @@
   "description": "Change background color and visibility of any page",
 
   "icons": {
-    "48": "icons/icon.png"
+    "48": "icons/icon-48.png"
   },
 
   "permissions": [
@@ -15,7 +15,7 @@
   ],
 
   "browser_action": {
-    "default_icon": "icons/icon.png",
+    "default_icon": "icons/icon-32.png",
     "default_title": "ShadyNotes",
     "default_popup": "popup/notes.html"
     
