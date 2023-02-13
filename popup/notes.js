@@ -12,6 +12,7 @@ if (localStorage["inputData"] != null){
 
 // add click listener to submit button
 userSubmit.addEventListener("click", (e) => {
+    e.preventDefault();
     displayer.innerHTML = userInput.value;
     if(userInput.value != ""){
         localStorage["inputData"] = userInput.value; }
@@ -19,13 +20,13 @@ userSubmit.addEventListener("click", (e) => {
 )
 // add click listener to delete selection button
 userClear.addEventListener("click", (e) => {
+    e.preventDefault();
     displayer.innerText = null;
     }
 )
 // listening for clicks within document
 function listenForClicks() {
     document.addEventListener("click", (e) => {
-
         function changeColor() {
             let choice = e.target.textContent;
             switch (choice) {
