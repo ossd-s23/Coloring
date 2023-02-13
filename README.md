@@ -15,7 +15,7 @@ Now visit any web page under "mozilla.org", and click the extension logo in the 
 
 ## Code of Conduct
 
-We hope to foster a safe, fun, collaborative environment for all contributors and users. Please refer to our [Code of Conduct] (https://github.com/ossd-s23/Coloring/blob/main/CODE_OF_CONDUCT.md) for more details.
+We hope to foster a safe, fun, collaborative environment for all contributors and users. Please refer to our [Code of Conduct](https://github.com/ossd-s23/Coloring/blob/main/CODE_OF_CONDUCT.md) for more details.
 
 ## Contributing
 
